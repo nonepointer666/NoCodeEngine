@@ -4,3 +4,9 @@
 .container_title {
   color: red;
 }
+.wrap {
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
