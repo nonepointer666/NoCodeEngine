@@ -1,0 +1,1 @@
+在tsconfig.json中配置types:["easyest/lib/src/components"]
